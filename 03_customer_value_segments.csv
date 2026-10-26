@@ -1,0 +1,5 @@
+segment,customers,avg_orders,segment_revenue,pct_of_revenue
+Top 25%,120,6.2,260103.2,56.1
+Upper-mid,120,2.9,118292.55,25.5
+Lower-mid,120,2.1,62597.59,13.5
+Bottom 25%,119,1.3,22783.17,4.9
